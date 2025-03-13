@@ -1,4 +1,4 @@
-#EDA_analysis_zomato 
+###EDA_analysis_zomato 
 
 ## Overview  
 This project aims to conduct an in-depth Exploratory Data Analysis (EDA) on the Zomato dataset. The primary goal is to clean, preprocess, and analyze the data to extract meaningful insights. Through various statistical and visualization techniques, we examine relationships between different features, detect anomalies, and identify patterns that can provide valuable information for further decision-making and predictive modeling.  
